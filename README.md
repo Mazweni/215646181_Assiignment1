@@ -1,2 +1,3 @@
-# 215646181_Assiignment1
+# 215646181_Assignment1
 My first repository on GitHub
+I love :coffee: :pizza:, and :dancer:.
